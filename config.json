@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/netflix",
+    "prod_uri":"mysql://root:@localhost/netflix",
+    "fb_url":"https://facebook.com/blog",
+    "tw_url":"https://twitter.com/blog",
+    "gh_url":"https://github.com/blog",
+    "gmail-user":"rujutamedhi@gmail.com",
+    "gmail-password":"nlxu hbpf hwax dahq"
+    
+    
+    }
+    
+    
+    }
